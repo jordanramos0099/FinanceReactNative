@@ -38,7 +38,7 @@ iOS's Stocks App clone written in [React Native](https://github.com/facebook/rea
 * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - 3000 Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full stying.
 * [rn-viewpager](https://github.com/zbtang/React-Native-ViewPager) - ViewPager and Indicator component for react-native on both android and ios.
 
-## Components used
+## Components
 
 * **AppRegistry** - The JS entry point to running all React Native apps.
 * **Image** - A React component for displaying different types of images, including network images, static resources, temporary local images, and images from local disk, such as the camera roll.
